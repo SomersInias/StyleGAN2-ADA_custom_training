@@ -1,3 +1,5 @@
 Fantast_portraits_red_box.pkl filter=lfs diff=lfs merge=lfs -text
 Synthwave_wave.pkl filter=lfs diff=lfs merge=lfs -text
 3dneonshapes.pkl filter=lfs diff=lfs merge=lfs -text
+Spirit_trained_with_3dneonshapes_as_base.pkl filter=lfs diff=lfs merge=lfs -text
+Spirit.pkl filter=lfs diff=lfs merge=lfs -text
